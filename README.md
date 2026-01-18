@@ -1,4 +1,8 @@
-# 👋 嗨！我是 開發柴工作室 創辦人 🐕
+# 👋 嗨！我是  開發柴工作室 創辦人 🐕
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shibastudiotw/shibastudiotw.github.io/main/social-preview.png" width="100%" alt="Shiba Studio Banner">
+</p>
 
 ### 👨‍💻 自由接案網頁設計師 & AI 自動化開發者
 專注於為**寵物產業**提供數位轉型解決方案。我熱衷於將複雜的業務流程，轉化為直觀、高效的數位體驗。
@@ -35,7 +39,7 @@
 - 🌐 **官方網站**: [shibastudio.online](https://www.shibastudio.online/)
 - 💬 **LINE 諮詢**: [@221acvwy](https://line.me/R/ti/p/@221acvwy)
 - 📧 **聯絡信箱**: [contact@shibastudio.online](mailto:contact@shibastudio.online)
-- 📍 **所在地**: 台南，台灣
+- **所在地**: 台北，台灣
 
 ---
 
